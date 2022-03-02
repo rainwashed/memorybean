@@ -1,0 +1,10 @@
+{
+  "name": "memorybean",
+  "version": "1.0.0",
+  "description": "A custom client for https://membean.com",
+  "main": "src/index.js",
+  "private": "true",
+  "scripts": {
+    "start": "node src/index.js"
+  }
+}
