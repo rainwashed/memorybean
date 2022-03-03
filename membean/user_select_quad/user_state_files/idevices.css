@@ -1,0 +1,5 @@
+/*iphone [potrait and landscape]*/
+@media only screen and (max-device-width: 480px) { .landing #section1-wrapper { background-color: #E5E5E5 !important; background-image: none !important; } }
+
+/*ipad [potrait and landscape]*/
+@media only screen and (min-device-width: 768px) and (max-device-width: 1024px) { .landing #section1-wrapper { background-color: #E5E5E5 !important; background-image: none !important; } }

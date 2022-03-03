@@ -1,0 +1,1 @@
+membean folder is a saved html file for different states that membean can be in. Will be used for the automation later.
